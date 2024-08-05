@@ -29,7 +29,7 @@ This is a PHP admin panel template built using PHP, HTML, Bootstrap, CSS, and Ja
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/YashR34/admin_p.git
+    git clone [https://github.com/YashR34/admin_p.git](https://github.com/YashR34/php-admin-panel.git)
     cd php_admin_panel_template
     ```
 
