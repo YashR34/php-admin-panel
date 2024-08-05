@@ -105,10 +105,7 @@ This is a PHP admin panel template built using PHP, HTML, Bootstrap, CSS, and Ja
     ```
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
 
 For any questions or feedback, please contact [YashR34](https://github.com/YashR34).
+![Screenshot (9)](https://github.com/user-attachments/assets/3f8abfd9-bbf3-4e99-a034-791fd147b27d)
